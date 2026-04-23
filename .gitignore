@@ -1,0 +1,19 @@
+# Dependencies
+node_modules/
+
+# Environment variables (PENTING! jangan sampai ke-push)
+.env
+.env.local
+.env.production
+
+# Logs
+*.log
+npm-debug.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Build output
+dist/
+build/
