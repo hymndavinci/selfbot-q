@@ -1,0 +1,19 @@
+{
+    "name": "discord-quest-bot-ultimate",
+    "version": "3.0.0",
+    "description": "Ultimate Discord Quest bot with 30+ commands",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "dependencies": {
+        "discord.js": "^14.14.1",
+        "axios": "^1.6.2",
+        "dotenv": "^16.3.1",
+        "@napi-rs/canvas": "^0.1.53"
+    },
+    "engines": {
+        "node": ">=18.0.0"
+    }
+}
